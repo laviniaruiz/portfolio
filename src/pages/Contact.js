@@ -11,7 +11,7 @@ export default function Contact() {
 
       <p className="c1">
         <h3> Get in Touch. Click on the social icons</h3>
-        <Link to="https://github.com/laviniaruiz/portfolio.git">
+        <Link to="https://github.com/laviniaruiz/mod2project">
           <img style={{ width: "90px" }} src={require("../github.jpg")} alt="logo"></img>
        
         <Link to="https://www.linkedin.com/in/lavinia-ruiz-721726265/"></Link>
